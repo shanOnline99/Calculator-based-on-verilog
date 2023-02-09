@@ -1,0 +1,8 @@
+Info (10281): Verilog HDL Declaration information at BCD_converter.v(6): object "FOUT0" differs only in case from object "fout0" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD_converter.v Line: 6
+Info (10281): Verilog HDL Declaration information at BCD_converter.v(4): object "FOUT1" differs only in case from object "fout1" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD_converter.v Line: 4
+Info (10281): Verilog HDL Declaration information at BCD_converter.v(4): object "FOUT2" differs only in case from object "fout2" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD_converter.v Line: 4
+Info (10281): Verilog HDL Declaration information at BCD_converter.v(4): object "FOUT3" differs only in case from object "fout3" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD_converter.v Line: 4
+Info (10281): Verilog HDL Declaration information at BCD.v(3): object "A" differs only in case from object "a" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD.v Line: 3
+Info (10281): Verilog HDL Declaration information at BCD.v(3): object "B" differs only in case from object "b" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD.v Line: 3
+Info (10281): Verilog HDL Declaration information at BCD.v(3): object "C" differs only in case from object "c" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD.v Line: 3
+Info (10281): Verilog HDL Declaration information at BCD.v(3): object "D" differs only in case from object "d" in the same scope File: D:/4th sem/A6_ASSIGNMENT3/project/project/Golden_Top/BCD.v Line: 3
